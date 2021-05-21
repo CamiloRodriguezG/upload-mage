@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://upload-mage.vercel.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/lHBVnEb5kZyZkFiNkSlz">
       Solution
     </a>
     <span> | </span>
@@ -36,9 +36,9 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/CamiloRodriguezG/upload-mage/blob/main/images/screenshot.png)
 
-- See the website here: 
+- See the website here: https://devchallenges.io/solutions/lHBVnEb5kZyZkFiNkSlz
 
 ### Built With
 
