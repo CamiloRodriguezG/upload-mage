@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" type="image/png" href="images/devchallenges.png" />
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image uploader</title>
+  <link rel="stylesheet" href="src/style.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+</head>
+<body>
+  <div id="main-box">
+    <div class="upload-card">
+      <header>
+        <h1>Upload your image</h1>
+        <p>File should be Jpeg, Png,...</p>
+      </header>
+      <div class="drop-file" accept="image/*">
+        <img src="images/image.svg" alt="upload image">
+        <p>Drag & Drop your image here</p>
+      </div>
+      <p>Or</p>
+      <div class="image-input">
+        <input type="file" id="file" class="file" accept="image/*">
+        <label for="file" class="choose-btn">Choose a file</label>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <p>created by <a href="https://portfolio-mu-snowy.vercel.app" target="_blank">Camilo Rodriguez</a> - devChallenges.io</p>
+  </footer>
+  <script src="src/script.js"></script>
+</body>
+</html>
